@@ -1,6 +1,16 @@
-body{background-color:#fffff2;background-image:url('background.jpg');background-repeat:no-repeat;}
+body{background-color:white;background-image:url('background.jpg');background-repeat:no-repeat;margin:0px;padding:0px}
 #logo{width:150px;padding-top:20px;padding-bottom:20px}
 #resumeTab{background-color:#74c7fe;font-weight:bold;text-align:center;margin-top:30px;width:200px;box-shadow: 0 4px 8px 0 rgba(116, 199, 254, 0.2), 0 6px 20px 0 rgba(116, 199, 254, 0.19);}
+#galleryitemcover:hover #galleryitem{transform:scale(1.05);transition:.5s}
+#largeimg{max-width:90%;max-height:90%}
+#home{color:black}
+#home:hover{text-shadow: 4px 8px yellow;}
+#web{color:black}
+#web:hover{text-shadow: 4px 8px red;}
+#ui{color:black}
+#ui:hover{text-shadow: 4px 8px orange;}
+#fashion{color:black}
+#fashion:hover{text-shadow: 4px 8px blue;}
 @font-face {
     font-family: 'LexendDeca';
     src: url('LexendDeca-VariableFont_wght.ttf');
