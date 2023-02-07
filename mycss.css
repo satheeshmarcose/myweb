@@ -1,6 +1,6 @@
-body{background-color:white;background-image:url('background.jpg');background-repeat:no-repeat;margin:0px;padding:0px}
+body{background-color:white;background-image:url('background.jpg');background-repeat:no-repeat;margin:0px;padding:0px;user-select:none}
 #logo{width:150px;padding-top:20px;padding-bottom:20px}
-#resumeTab{background-color:#74c7fe;font-weight:bold;text-align:center;margin-top:30px;width:200px;box-shadow: 0 4px 8px 0 rgba(116, 199, 254, 0.2), 0 6px 20px 0 rgba(116, 199, 254, 0.19);}
+#resumeTab{margin:20px;background-color:#74c7fe;font-weight:bold;text-align:center;margin-top:30px;width:250px;box-shadow: 0 4px 8px 0 rgba(116, 199, 254, 0.2), 0 6px 20px 0 rgba(116, 199, 254, 0.19);}
 #galleryitemcover:hover #galleryitem{transform:scale(1.05);transition:.5s}
 #largeimg{max-width:90%;max-height:90%}
 #home{color:black}
